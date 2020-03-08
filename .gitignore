@@ -2,3 +2,4 @@
 reuters-article.tar.gz
 content.jl
 .python-version
+__pycache__/
